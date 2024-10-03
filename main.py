@@ -14,31 +14,31 @@ def scrape_timetable(url: str) -> None:
 
     wait = WebDriverWait(driver, 10)
 
-    program_select = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt179")))
+    program_select = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt175")))
     program_select.click()
 
-    program_option = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt179_6")))
+    program_option = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt175_6")))
     program_option.click()
 
     time.sleep(1)
 
-    year_select = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt183")))
+    year_select = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt179")))
     year_select.click()
 
-    year_option = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt183_3")))
+    year_option = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt179_3")))
     year_option.click()
 
     time.sleep(1)
 
-    project_select = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt187")))
+    project_select = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt183")))
     project_select.click()
 
-    project_option = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt187_1")))
+    project_option = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt183_1")))
     project_option.click()
 
     time.sleep(1)
 
-    week_button = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt250")))
+    week_button = wait.until(EC.visibility_of_element_located((By.ID, "form:j_idt241")))
     week_button.click()
 
     time.sleep(3)

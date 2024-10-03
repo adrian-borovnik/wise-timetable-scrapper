@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Add program, year and project select &amp; download calendar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -17,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "adrian-borovnik"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adrian-borovnik&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/adrian-borovnik/wise-timetable-scrapper.git",
-    "accountId": "2745fc08-2a76-49d6-a5c0-3534dc5b0934"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adrian-borovnik/wise-timetable-scrapper.git&quot;,
+    &quot;accountId&quot;: &quot;2745fc08-2a76-49d6-a5c0-3534dc5b0934&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -97,8 +96,19 @@
       <updated>1727505491553</updated>
       <workItem from="1727505501037" duration="338000" />
       <workItem from="1727506125756" duration="114000" />
-      <workItem from="1727506272781" duration="4378000" />
+      <workItem from="1727506272781" duration="4492000" />
+      <workItem from="1727867900667" duration="2100000" />
+      <workItem from="1727989959422" duration="681000" />
     </task>
+    <task id="LOCAL-00001" summary="Add program, year and project select &amp; download calendar">
+      <option name="closed" value="true" />
+      <created>1727681324542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727681324542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +125,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add program, year and project select &amp; download calendar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add program, year and project select &amp; download calendar" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wise_timetable_scrapper$main.coverage" NAME="main Coverage Results" MODIFIED="1727681175806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wise_timetable_scrapper$main.coverage" NAME="main Coverage Results" MODIFIED="1727994950395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
