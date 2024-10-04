@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Add program, year and project select &amp; download calendar">
+    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Fix elements ids">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -98,7 +98,7 @@
       <workItem from="1727506125756" duration="114000" />
       <workItem from="1727506272781" duration="4492000" />
       <workItem from="1727867900667" duration="2100000" />
-      <workItem from="1727989959422" duration="681000" />
+      <workItem from="1727989959422" duration="3686000" />
     </task>
     <task id="LOCAL-00001" summary="Add program, year and project select &amp; download calendar">
       <option name="closed" value="true" />
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727681324542</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix elements ids">
+      <option name="closed" value="true" />
+      <created>1727994974337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727994974337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,9 +135,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add program, year and project select &amp; download calendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add program, year and project select &amp; download calendar" />
+    <MESSAGE value="Fix elements ids" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix elements ids" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wise_timetable_scrapper$main.coverage" NAME="main Coverage Results" MODIFIED="1727994950395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wise_timetable_scrapper$main.coverage" NAME="main Coverage Results" MODIFIED="1728031903689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
