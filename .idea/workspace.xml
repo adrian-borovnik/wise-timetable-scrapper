@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Add get_file_path implementation">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Add google calendar api integration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -129,7 +128,7 @@
       <workItem from="1727506272781" duration="4492000" />
       <workItem from="1727867900667" duration="2100000" />
       <workItem from="1727989959422" duration="7519000" />
-      <workItem from="1728161631610" duration="7834000" />
+      <workItem from="1728161631610" duration="26473000" />
     </task>
     <task id="LOCAL-00001" summary="Add program, year and project select &amp; download calendar">
       <option name="closed" value="true" />
@@ -155,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728032742942</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add google calendar api integration">
+      <option name="closed" value="true" />
+      <created>1728202372541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728202372541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +183,11 @@
     <MESSAGE value="Add program, year and project select &amp; download calendar" />
     <MESSAGE value="Fix elements ids" />
     <MESSAGE value="Add get_file_path implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add get_file_path implementation" />
+    <MESSAGE value="Add google calendar api integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add google calendar api integration" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wise_timetable_scrapper$quickstart.coverage" NAME="quickstart Coverage Results" MODIFIED="1728161699309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wise_timetable_scrapper$main.coverage" NAME="main Coverage Results" MODIFIED="1728169169853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wise_timetable_scrapper$main.coverage" NAME="main Coverage Results" MODIFIED="1728233390348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
