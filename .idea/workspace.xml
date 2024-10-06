@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Add google calendar api integration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="94c457e6-098b-4ea0-b005-3aca0e10bcf1" name="Changes" comment="Add parsing ics file and creating events in gcal">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
       <workItem from="1727506272781" duration="4492000" />
       <workItem from="1727867900667" duration="2100000" />
       <workItem from="1727989959422" duration="7519000" />
-      <workItem from="1728161631610" duration="26473000" />
+      <workItem from="1728161631610" duration="26542000" />
     </task>
     <task id="LOCAL-00001" summary="Add program, year and project select &amp; download calendar">
       <option name="closed" value="true" />
@@ -162,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728202372541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add parsing ics file and creating events in gcal">
+      <option name="closed" value="true" />
+      <created>1728233910903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728233910903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +191,8 @@
     <MESSAGE value="Fix elements ids" />
     <MESSAGE value="Add get_file_path implementation" />
     <MESSAGE value="Add google calendar api integration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add google calendar api integration" />
+    <MESSAGE value="Add parsing ics file and creating events in gcal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add parsing ics file and creating events in gcal" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wise_timetable_scrapper$quickstart.coverage" NAME="quickstart Coverage Results" MODIFIED="1728161699309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
